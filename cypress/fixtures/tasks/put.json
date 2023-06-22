@@ -1,0 +1,27 @@
+{
+   "update": {
+        "user": {
+            "name": "Neji Hyuga",
+            "email": "neji@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "Principe do clã Hyuga",
+            "tags": [
+                "Jounin",
+                "Prodígio",
+                "Morte"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Tsunade Senju",
+            "email": "tsunade@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "5º Hokage"
+        }
+    }
+}

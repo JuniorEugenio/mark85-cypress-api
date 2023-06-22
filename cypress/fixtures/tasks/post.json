@@ -1,0 +1,28 @@
+{
+    "create": {
+        "user": {
+            "name": "Naruto Uzumaki",
+            "email": "naruto@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "pagar a fatura do meu cartão",
+            "tags": [
+                "inter",
+                "itau",
+                "iupp"
+            ]
+        }
+    },
+    
+    "dup": {
+        "user": {
+            "name": "Sakura Haruno",
+            "email": "sakura@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "Fazer compras no mercado"
+         }    
+}
+}

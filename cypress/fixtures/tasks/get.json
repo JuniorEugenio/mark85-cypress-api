@@ -1,0 +1,57 @@
+{
+    "list": {
+        "user": {
+            "name": "Hinata Hyuga",
+            "email": "hinata@gmail.com",
+            "password": "anime123"
+        },
+        "tasks": [
+            {
+                "name": "Estud4r Javascript",
+                "tags": [
+                    "qax"
+                ]
+            },
+            {
+                "name": "Estud4r Typescript",
+                "tags": [
+                    "typescript",
+                    "ts"
+                ]
+            },
+            {
+                "name": "Estud4r Cypress",
+                "tags": [
+                    "cypress",
+                    "javascript",
+                    "nodejs"
+                ]
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "Kakashi Hatake",
+            "email": "kakashi@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "Proteger Konoha",
+            "tags": [
+                "Sharingan",
+                "Ninja Copiador",
+                "Sensei"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Madara Uchiha",
+            "email": "madara@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "Destruir Konoha"
+        }
+    }
+}

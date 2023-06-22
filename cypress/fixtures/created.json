@@ -1,0 +1,18 @@
+{
+    "create": {
+        "name": "Uchiha Itachi",
+        "email": "itachi@gmail.com",
+        "password": "anime123"
+    },
+    "dup_email": {
+        "name": "Minato Namikaze",
+        "email": "minato@gmail.com",
+        "password": "anime123"
+    },
+    "required": {
+        "name": "Senju Tobirama",
+        "email": "tobirama@gmail.com",
+        "password": "anime123"
+    }
+
+}

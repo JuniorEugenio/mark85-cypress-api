@@ -1,0 +1,27 @@
+{
+   "remove": {
+        "user": {
+            "name": "Shikamaru Nara",
+            "email": "shikamaru@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "Braço direito do Hokage",
+            "tags": [
+                "Jounin",
+                "Clã Nara",
+                "Intelecto"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Obito Uchiha",
+            "email": "obito@gmail.com",
+            "password": "anime123"
+        },
+        "task": {
+            "name": "Salvar Amigos"
+        }
+    }
+}
